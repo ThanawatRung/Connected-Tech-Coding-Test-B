@@ -3,3 +3,7 @@
 3. อย่าลืมนำไฟล์ entrance.mov ไว้ใน folder เดียวกับ source_code.ipynb ก่อนสั่งรัน
 4. ผลลัพธ์จำนวนถูกแสดงเป็น log ไว้ที่ cell สุดท้าย
 5. กรณีที่อยากเห็นภาพที่เป็นแผนผังของการทำงานให้โหลดตัว path img ไปด้วยเพราะ Resource การแสดงให้ดูอยู่ใน Folder นี้
+
+
+Code_Presentation -> https://drive.google.com/file/d/1O4zW1NkrfQAIxeaODrUFOHhny1F4c4zi/view?usp=sharing
+Yolo Detection Result -> https://drive.google.com/file/d/13slrGsEvU267haSiB3oSlGHcSKlaWcHr/view?usp=sharing
